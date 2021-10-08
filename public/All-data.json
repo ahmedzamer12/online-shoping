@@ -1,0 +1,150 @@
+[
+    {
+        "id" : 1,
+        "photo":"man/man1.jpg" ,
+        "titel" : "Mens wear" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 2,
+        "photo":"man/man2.jpg" ,
+        "titel" : "Mens wear" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 3,
+        "photo":"man/man3.jpg" ,
+        "titel" : "Mens wear" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 4,
+        "photo":"man/man4.jpg" ,
+        "titel" : "Mens wear" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 5,
+        "photo":"man/man5.jpg" ,
+        "titel" : "Mens wear" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 6,
+        "photo":"man/man6.jpg" ,
+        "titel" : "Mens wear" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 7,
+        "photo":"man/man7.jpg" ,
+        "titel" : "Mens wear" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 8,
+        "photo":"man/man8.jpg" ,
+        "titel" : "Mens wear" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 9,
+        "photo":"girls/girls1.jpg" ,
+        "titel" : "girls clothes" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 10,
+        "photo":"girls/girls2.jpg" ,
+        "titel" : "girls clothes" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 11,
+        "photo":"girls/girls3.jpg" ,
+        "titel" : "girls clothes" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 12,
+        "photo":"girls/girls4.jpg" ,
+        "titel" : "girls clothes" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 13,
+        "photo":"girls/girls5.jpg" ,
+        "titel" : "girls clothes" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 14,
+        "photo":"girls/girls6.jpg" ,
+        "titel" : "girls clothes" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 15,
+        "photo":"girls/girls7.jpg" ,
+        "titel" : "girls clothes" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 16,
+        "photo":"girls/girls8.jpg" ,
+        "titel" : "girls clothes" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 17,
+        "photo":"children/children1.jpg" ,
+        "titel" : "children clothes" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 18,
+        "photo":"children/children2.jpg" ,
+        "titel" : "children clothes" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 19,
+        "photo":"children/children3.jpg" ,
+        "titel" : "children clothes" ,
+        "price" : "300$"
+    }
+    ,
+    {
+        "id" : 20,
+        "photo":"children/children4.jpg" ,
+        "titel" : "children clothes" ,
+        "price" : "300$"
+    }
+    ,
+    {
+        "id" : 21,
+        "photo":"children/children5.jpg" ,
+        "titel" : "children clothes" ,
+        "price" : "300$"
+    }
+    ,
+    {
+        "id" : 22,
+        "photo":"children/children6.jpg" ,
+        "titel" : "children clothes" ,
+        "price" : "300$"
+    }
+    ,
+    {
+        "id" : 23,
+        "photo":"children/children7.jpg" ,
+        "titel" : "children clothes" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 24,
+        "photo":"children/children8.jpg" ,
+        "titel" : "children clothes" ,
+        "price" : "300$"
+    }
+]

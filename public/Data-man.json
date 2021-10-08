@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "photo":"man/man1.jpg" ,
+        "titel" : "Ahmed amer" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 2,
+        "photo":"man/man2.jpg" ,
+        "titel" : "Ahmed amer" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 3,
+        "photo":"man/man3.jpg" ,
+        "titel" : "Ahmed amer" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 4,
+        "photo":"man/man4.jpg" ,
+        "titel" : "Ahmed amer" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 5,
+        "photo":"man/man5.jpg" ,
+        "titel" : "Ahmed amer" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 6,
+        "photo":"man/man6.jpg" ,
+        "titel" : "Ahmed amer" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 7,
+        "photo":"man/man7.jpg" ,
+        "titel" : "Ahmed amer" ,
+        "price" : "300$"
+    },
+    {
+        "id" : 8,
+        "photo":"man/man8.jpg" ,
+        "titel" : "Ahmed amer" ,
+        "price" : "300$"
+    }
+]
